@@ -21,7 +21,7 @@ Scripts here are dedicated to the renaming dance for devices in Google Workspace
 - **deviceList.mjs:** Whip up a list of devices with style.
 - **devices_Search.mjs:** Seek and find devices effortlessly.
 
-### 👥 Users
+### 👥 UsersP
 
 Explore scripts for user administration.
 
